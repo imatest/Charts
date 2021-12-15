@@ -1,1 +1,0 @@
-Dead Leaves Chart Definition
