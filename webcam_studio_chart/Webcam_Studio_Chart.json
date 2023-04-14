@@ -1,0 +1,566 @@
+{
+  "name": "Webcam_Studio_Chart",
+  "aspectRatio": 1.3638814016172507,
+  "bgEncoding": "density",
+  "bgValue": 0.78,
+  "comment": [],
+  "features": [
+    {
+      "featureType": "RegMarkFeature",
+      "center": [
+        0.0277,
+        0.0377
+      ],
+      "ind": 1,
+      "height": 0.0485,
+      "width": 0.0356,
+      "rotation": 0
+    },
+    {
+      "featureType": "RegMarkFeature",
+      "center": [
+        0.4308,
+        0.0377
+      ],
+      "ind": 2,
+      "height": 0.0485,
+      "width": 0.0356,
+      "rotation": 0
+    },
+    {
+      "featureType": "RegMarkFeature",
+      "center": [
+        0.9723,
+        0.4043
+      ],
+      "ind": 3,
+      "height": 0.0485,
+      "width": 0.0356,
+      "rotation": 0
+    },
+    {
+      "featureType": "RegMarkFeature",
+      "center": [
+        0.9723,
+        0.9623
+      ],
+      "ind": 4,
+      "height": 0.0485,
+      "width": 0.0356,
+      "rotation": 0
+    },
+    {
+      "featureType": "StarFeature",
+      "centerMarkFraction": 0.1,
+      "center": [
+        0.2007,
+        0.2359
+      ],
+      "ind": 1,
+      "height": 0.3964,
+      "width": 0.2906,
+      "rotation": 0
+    },
+    {
+      "featureType": "SlantedEdgeFeature",
+      "encoding": "srgb",
+      "lightValue": [
+        223,
+        223,
+        223
+      ],
+      "darkValue": [
+        78,
+        78,
+        78
+      ],
+      "slantAngle": 83,
+      "center": [
+        0.19,
+        0.505
+      ],
+      "ind": 1,
+      "height": 0.0728,
+      "width": 0.1779,
+      "rotation": 0
+    },
+    {
+      "featureType": "SlantedEdgeFeature",
+      "encoding": "srgb",
+      "lightValue": [
+        186,
+        186,
+        186
+      ],
+      "darkValue": [
+        99,
+        99,
+        99
+      ],
+      "slantAngle": 173,
+      "center": [
+        0.405,
+        0.245
+      ],
+      "ind": 2,
+      "height": 0.2426,
+      "width": 0.0534,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        37.54,
+        14.37,
+        14.92
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.4274,
+        0.4973
+      ],
+      "ind": 1,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        62.73,
+        35.83,
+        56.5
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.4274,
+        0.6248
+      ],
+      "ind": 2,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        28.37,
+        15.42,
+        -49.8
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.4274,
+        0.7523
+      ],
+      "ind": 3,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        95.19,
+        -1.03,
+        2.93
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.4274,
+        0.8798
+      ],
+      "ind": 4,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        64.66,
+        19.27,
+        17.5
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.5191,
+        0.4973
+      ],
+      "ind": 5,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        39.43,
+        10.75,
+        -45.17
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.5191,
+        0.6248
+      ],
+      "ind": 6,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        54.38,
+        -39.72,
+        32.27
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.5191,
+        0.7523
+      ],
+      "ind": 7,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        81.29,
+        -0.57,
+        0.44
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.5191,
+        0.8798
+      ],
+      "ind": 8,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        49.32,
+        -3.82,
+        -22.54
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.6107,
+        0.4973
+      ],
+      "ind": 9,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        50.57,
+        48.64,
+        16.67
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.6107,
+        0.6248
+      ],
+      "ind": 10,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        42.43,
+        51.05,
+        28.62
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.6107,
+        0.7523
+      ],
+      "ind": 11,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        66.89,
+        -0.75,
+        -0.06
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.6107,
+        0.8798
+      ],
+      "ind": 12,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        43.46,
+        -12.74,
+        22.72
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.7024,
+        0.4973
+      ],
+      "ind": 13,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        30.1,
+        22.54,
+        -20.87
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.7024,
+        0.6248
+      ],
+      "ind": 14,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        81.8,
+        2.67,
+        80.41
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.7024,
+        0.7523
+      ],
+      "ind": 15,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        50.76,
+        -0.13,
+        0.14
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.7024,
+        0.8798
+      ],
+      "ind": 16,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        54.94,
+        9.61,
+        -24.79
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.7941,
+        0.4973
+      ],
+      "ind": 17,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        71.77,
+        -24.13,
+        58.19
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.7941,
+        0.6248
+      ],
+      "ind": 18,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        50.63,
+        51.28,
+        -14.12
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.7941,
+        0.7523
+      ],
+      "ind": 19,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        35.63,
+        -0.46,
+        -0.48
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.7941,
+        0.8798
+      ],
+      "ind": 20,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        70.48,
+        -32.26,
+        -0.37
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.8857,
+        0.4973
+      ],
+      "ind": 21,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        71.51,
+        18.24,
+        67.37
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.8857,
+        0.6248
+      ],
+      "ind": 22,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        49.57,
+        -29.71,
+        -28.32
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.8857,
+        0.7523
+      ],
+      "ind": 23,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "ColorPatchFeature",
+      "encoding": "lab",
+      "value": [
+        20.64,
+        0.07,
+        -0.46
+      ],
+      "useForNoisePSD": false,
+      "center": [
+        0.8857,
+        0.8798
+      ],
+      "ind": 24,
+      "height": 0.102,
+      "width": 0.0733,
+      "rotation": 0
+    },
+    {
+      "featureType": "RandomFieldFeature",
+      "randomType": "IE_cross_color",
+      "center": [
+        0.173,
+        0.7641
+      ],
+      "ind": 1,
+      "height": 0.3964,
+      "width": 0.2906,
+      "rotation": 0
+    },
+    {
+      "featureType": "KeepoutArea",
+      "center": [
+        0.7292,
+        0.1833
+      ],
+      "ind": 1,
+      "height": 0.3666,
+      "width": 0.5415,
+      "rotation": 0
+    }
+  ]
+}
